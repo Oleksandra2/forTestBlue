@@ -1,5 +1,5 @@
 ---
-title: Daria tutorial blue seven
+title: Test Blue seven
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
