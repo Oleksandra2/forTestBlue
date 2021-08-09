@@ -1,5 +1,5 @@
 ---
-title: Daria tutorial blue six
+title: Test Blue six
 description: Default avatar in the first commit.
 auto_validation: true
 primary_tag: products>sap-cloud-platform-portal
