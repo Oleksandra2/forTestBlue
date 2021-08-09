@@ -1,5 +1,5 @@
 ---
-title: Daria tutorial blue nine
+title: Test Blue nine
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
