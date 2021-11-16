@@ -2,7 +2,7 @@
 title: Test Blue nine
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
-primary_tag: tutorial:product/mobile
+primary_tag: product>mobile
 ---
 ### Time to Complete
 20 min
