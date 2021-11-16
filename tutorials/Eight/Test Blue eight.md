@@ -2,7 +2,7 @@
 title: Test Blue eight
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
-primary_tag: products>mobile
+primary_tag: products>sap-hana-cloud
 ---
 ### Time to Complete
 20 min
