@@ -1,8 +1,8 @@
 ---
 title: Test Blue nine
 description: example
-tags: [products>sap-hana, topic>api, tutorial>beginner]
-primary_tag: product>mobile
+tags: [tutorial>beginner, topic>api]
+primary_tag: products>sap-hana-cloud
 ---
 ### Time to Complete
 20 min
