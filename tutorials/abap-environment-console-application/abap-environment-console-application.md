@@ -33,6 +33,30 @@ For more information, see:
 - [SAP Help Portal: What is SAP BTP](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/6a2c1ab5a31b4ed9a2ce17a5329e1dd8.html)
 
 ---
+[Click to download xls] (10n.xls)
+
+[Click to download mpeg] (11n.mpeg)
+
+[Click to download zip] (12n.zip)
+
+[Click to download doc] (1n.doc)
+
+[Click to download docx] (2n.docx)
+
+[Click to download pdf] (3n.pdf)
+
+[Click to download txt] (4n.txt)
+
+[Click to download mp4] (5n.mp4)
+
+[Click to download csv] (6n.csv)
+
+[Click to download sql] (JOINSn.sql)
+
+[Click to download mp3] (Jinglebellsringtonen.mp3)
+
+[Click to download xlsx] (Book1.xlsx)
+
 
 [ACCORDION-BEGIN [Step 1: ](Open the ABAP Development Tools (ADT) )]
 Open the ADT and change to the ABAP perspective, using the menu.
@@ -49,6 +73,22 @@ Or select the icon.
 
 [DONE]
 [ACCORDION-END]
+
+[Click to download jpg] (8.jpg)
+
+[Click to download svg] (9.svg)
+
+[Click to download xml] (template.xml)
+
+[Click to download gif] (CWF.gif)
+
+[Click to download png] (access40.png)
+
+[Click to download json] (resp.json)
+
+[Click to download ico] (monitoriconn.ico)
+
+[Click to download mp3 crashed] (gfgg.mp3)
 
 [ACCORDION-BEGIN [Step 2: ](Create an ABAP Cloud project)]
 1. In the ADT, select the menu path **File** > **New** > **Other**.
