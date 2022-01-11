@@ -1,4 +1,4 @@
-﻿---
+---
 title: Test Blue Use Machine Learning to Extract Information from Documents with Swagger UI
 description: Get machine learning model predictions for the documents you upload to Document Information Extraction.
 auto_validation: true
@@ -6,7 +6,6 @@ time: 15
 tags: [tutorial>beginner, software-product>SAP-Analytics]
 primary_tag: software-product>Technology-Platform
 
-parser: v2
 keywords: keyword1, keyword2, keyword3/keyword4, keyword5.keyword6
 ---
 
