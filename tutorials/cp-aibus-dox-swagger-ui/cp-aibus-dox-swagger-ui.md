@@ -6,7 +6,7 @@ time: 15
 tags: [tutorial>beginner, software-product>SAP-Analytics]
 primary_tag: software-product>Technology-Platform
 
-keywords: keyword1, keyword2, keyword3/keyword4, keyword5.keyword6
+keywords: DEVELOPERS
 ---
 
 ## Details
