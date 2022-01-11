@@ -5,6 +5,8 @@ auto_validation: true
 time: 15
 tags: [tutorial>beginner, software-product>SAP-Analytics]
 primary_tag: software-product>Technology-Platform
+
+parser: v2
 keywords: keyword1, keyword2, keyword3/keyword4, keyword5.keyword6
 ---
 
