@@ -1,7 +1,7 @@
 ---
 title: Test Blue eight
 description: example
-tags: [tutorial>beginner, topic>api, software-product>Analytics, topic>Business-Development]
+tags: [tutorial>beginner, topic>api, software-product>Analytics, topic>Business-Development, tutorial>license]
 primary_tag: products>sap-hana-cloud
 ---
 ### Time to Complete
