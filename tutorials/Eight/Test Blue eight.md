@@ -3,10 +3,12 @@ title: Test Blue eight
 description: example
 tags: [tutorial>beginner, topic>api, software-product>Analytics, topic>Business-Development, tutorial>license]
 primary_tag: products>sap-hana-cloud
----
-### Time to Complete
-20 min
+time: 20
 
+---
+
+## Prerequisites
+- You have an entitlement to SAP Cloud Platform, ABsdAP Enviroasnment. For more information, see **Tutorial**: [Create Your First ABAP Console Application](abap-environment-console-application), steps 1-2
 
 [ACCORDION-BEGIN [Step 1: ](Add custom code)]
 
