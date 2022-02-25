@@ -9,6 +9,9 @@ primary_tag: software-product>Technology-Platform
 keywords: DEVELOPERS
 ---
 
+## Prerequisites
+- You have an entitlement to SAP Cloud Platform, ABsdAP Enviroasnment. For more information, see **Tutorial**: [Create Your First ABAP Console Application](abap-environment-console-application), steps 1-2
+
 ## Details
 ### You will learn
   - How to call and test Document Information Extraction
