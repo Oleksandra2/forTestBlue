@@ -6,11 +6,6 @@ tags: [tutorial>beginner, programming tool>API, topic>Java, topic>Best Run, tuto
 time: 66
 
 ---
-## Prerequisites  
- - **Systems used:** SAP HANA 1.00 SPS12, SAP HANA 2.00 SPS00, SAP HANA 2.00 SPS01, SAP HANA 2 SPS02 - SAP HANA, express edition
-
-
----
 
 [ACCORDION-BEGIN [Step 1: ](All 3 options, all with code snippets)]
 1.  From the **Sources** list, choose **Service URL**.  
