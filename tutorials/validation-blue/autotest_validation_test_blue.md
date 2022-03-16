@@ -3,7 +3,7 @@ title: Validation test form for Test Blue
 description: autotests description
 primary_tag: topic>mobile
 tags: [topic>abap-development, software-product>Analytics, tutorial>beginner]
-time: 600
+time: 60
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
