@@ -1,9 +1,8 @@
 ---
 title: Validation test form for Test Blue 
 description: autotests description
-primary_tag: tutorial>mobile
-tags: [tutorial>sapHana, tutorial>hana_studio, tutorial>beginner]
-qrcode: true
+primary_tag: topic>mobile
+tags: [topic>abap-development, software-product>Analytics, tutorial>beginner]
 time: 600
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
