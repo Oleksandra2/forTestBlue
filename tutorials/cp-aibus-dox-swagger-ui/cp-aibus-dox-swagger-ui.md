@@ -1,16 +1,11 @@
----
+﻿---
 title: Test Blue Use Machine Learning to Extract Information from Documents with Swagger UI
 description: Get machine learning model predictions for the documents you upload to Document Information Extraction.
 auto_validation: true
 time: 15
-tags: [tutorial>beginner, software-product>SAP-Analytics]
-primary_tag: software-product>Technology-Platform
-
-keywords: DEVELOPERS
+tags: [tutorial>beginner, software-product>Technology-Platform, software-product>SAP-Fiori-Cloud]
+primary_tag: software-product>SAP-Analytics
 ---
-
-## Prerequisites
-- You have an entitlement to SAP Cloud Platform, ABsdAP Enviroasnment. For more information, see **Tutorial**: [Create Your First ABAP Console Application](abap-environment-console-application), steps 1-2
 
 ## Details
 ### You will learn
