@@ -179,7 +179,7 @@ Do the following:
 
 4. In **options**, enter the list of fields to be extracted from the uploaded file (`documentNumber`, `taxId`, `purchaseOrderNumber`, `shippingAmount`, `netAmount`, `senderAddress`, `senderName`, `grossAmount`, for example), the client you created in step 5 (`c_00`, for example), and the document type (`invoice`, for example). In this case, you can use the following:
 
-    ```JSON
+    ```JSON [1, 7, 2, 10]
     {
        "extraction":{
           "headerFields":[
