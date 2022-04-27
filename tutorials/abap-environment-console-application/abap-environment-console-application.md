@@ -191,7 +191,7 @@ Or select the icon.
   1. In the class definition, specify the interface `IF_OO_ADT_CLASSRUN` in the public section as shown on the screenshot. Now go to the class implementation and provide the implementation of the method `IF_OO_ADT_CLASSRUN~MAIN`. As shown on the screenshot, it should output the text Hello World! using the code line below
 `out->write('Hello World!').`
 
-    ```ABAP
+    ```ABAP [2, 4]
     CLASS z_class_xxx DEFINITION
       PUBLIC
       FINAL
