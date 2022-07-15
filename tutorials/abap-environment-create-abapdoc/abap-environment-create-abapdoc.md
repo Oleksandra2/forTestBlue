@@ -97,30 +97,5 @@ This creates a link to the Element information for that interface.
 [DONE]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 6: ](Check comment)]
-1. Save and activate your class ( **`Ctrl+S, Ctrl+F3`** ).
-
-2. Select your class and choose **Show code element information (`F2`)**.
-
-3. Your comments should appear look like this:
-
-    !![step4a-element-info](step4a-element-info.png)
-
-4. If you choose the link to the interface, its documentation appears:
-
-    !![step6b-interface-abapdoc](step6b-interface-abapdoc.png)
-
-[DONE]
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [Step 5: ](Test yourself)]
-
-
-[VALIDATE_1]
-[ACCORDION-END]
-
-### More Information
-- SAP Help Portal: [Editing ABAP Doc Comments](https://help.sap.com/viewer/5371047f1273405bb46725a417f95433/Cloud/en-US/4ec136586e391014adc9fffe4e204223.html)
-- SAP Keyword Documentation: [ABAPDoc](https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/index.htm?file=abendoccomment.htm)
 
 ---
