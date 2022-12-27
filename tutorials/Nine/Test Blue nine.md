@@ -2,7 +2,7 @@
 title: Test Blue nine
 description: example
 tags: [tutorial>beginner, topic>api, tutorial>community, tutorial>license]
-primary_tag: products>sap-hana-cloud
+primary_tag: topic>Java
 ---
 ### Time to Complete
 20 min
