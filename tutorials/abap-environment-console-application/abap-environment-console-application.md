@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-title: Test Blue Create Your First ABAP Console Application updated 333
+title: A a Test Blue Create Your First ABAP Console Application updated Create asdasd an ABAP package and an ABasdAP class in the SAP BTP
 description: Create asdasd an ABAP package and an ABasdAP class in the SAP BTP, ABAP Environment with the ABAP Development Tools (ADT) in Eclipse.
 primary_tag: topic>User-Experience
 tags: [  tutorial>beginner, topic>abap-development, tutorial>community ]
