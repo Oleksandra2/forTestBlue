@@ -43,11 +43,13 @@ In the service key you created for Document Information Extraction in the previo
 
     !![DOX](png-files/Authorize2.png)
 
+
 | Left-Aligned | Center Aligned | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is | some wordy text | $1600 |
 | col 2 is | centered | $12 |
 | zebra stripes | are neat | $1 |
+
 
 [ACCORDION-BEGIN [Step 2: ](See list of document fields you can extract)]
 
