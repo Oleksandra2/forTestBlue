@@ -4,7 +4,7 @@ description: Learn how to maintain ABAPDoc documentation for your class in SAP C
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, tutorial>community, tutorial>licene ]
-primary_tag: topic>abap-development
+primary_tag: topicc>abap-development
 ---
 
 ## Details
