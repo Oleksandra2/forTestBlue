@@ -7,18 +7,13 @@ tags: [ tutorial>beginner, tutorial>community, tutorial>licence ]
 primary_tag: topic>abap-development
 ---
 
-## Details
-### You will learn  
+## Prerequisites   
 - How to maintain ABAPDoc comments
 - How to synchronize comments so they appear in the Outline View
 - How to add an sorted list
 - How to create a link to other development object documentation within ADT
 
-ABAPDoc comments are used to document your code. This makes it more readable. If other developers use one of your development objects, they can find out more about it by selecting the object name in the code and choosing **Element Info ( `F2` )**.
-
-All ABAPDoc comments begin with **`"!`**.
-
-Always replace `XXX` with your initials or group number.
+This text block is not marked as a separate section but it should be rendered after 'Prerequisites' section.
 
 ---
 
