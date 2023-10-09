@@ -6,7 +6,7 @@ tags: [ tutorial>beginner, programming-tool>python]
 primary_tag: products>sap-business-technology-platform
 ---
 
-# Test Blue Luigi getting started new updated
+# Test Blue Luigi getting started new
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 ## You will learn
