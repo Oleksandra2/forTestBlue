@@ -28,6 +28,12 @@ Text text text
 
 The SAP HANA client provides a set of utilities and drivers to connect to and query a SAP HANA database from multiple programming APIs, such as Node.js, Python or Java as shown below.  
 
+| Left-Aligned | Center Aligned | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is | some wordy text | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
+
 ![drivers](download-flat.png)
 <iframe width="560" height="315" src=https://www.youtube.com/embed/do_UT5NqAO0 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
